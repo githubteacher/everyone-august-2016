@@ -1,4 +1,5 @@
 
+## Taste of Palatine
 ### Places to Eat
 - Durty Nellies
 - Emmett's (Microbrew)
