@@ -5,7 +5,7 @@
  - Food Truck Rally
  - Casa Tinas - go for tacos
 
-### Brewery Tour
+### Ultimate Brewery Tour
  - Se7nth Sun
  - De Bine
  - Rock Brothers Brewery
