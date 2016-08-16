@@ -6,6 +6,7 @@
 ### Things To Do
 - Visit Zoo
 - Visit BrickTown
+- Visit Basspro Shop
 
 ### Colleges
 - OU
