@@ -4,5 +4,5 @@
  - Dive into the ancient artifacts in the National Palace Museum
 
 ### Food to grab
-  - House Fried Rice
-  - Ground Meat over Rice
+ - House Fried Rice
+ - Ground Meat over Rice
