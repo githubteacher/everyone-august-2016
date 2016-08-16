@@ -9,9 +9,13 @@
  - Se7nth Sun
  - De Bine
  - Rock Brothers Brewery
+ - Brew Dog
+ - Hoppy Friday Brewery
+ - Cigar City Brewery
  - Big Storm Brewery
 
 ### Things to Do
  - Sponge Docks in Tarpon
  - Go to Clearwater Beach
  - Jolly Trolley
+ - Hippie Festival
