@@ -6,11 +6,9 @@
 ### Things To Do
 - Visit Zoo
 - Visit BrickTown
-<<<<<<< HEAD
 - Visit Downtown
-=======
 - Visit Basspro Shop
->>>>>>> refs/remotes/origin/master
+
 
 ### Colleges
 - OU
