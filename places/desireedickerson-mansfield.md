@@ -2,6 +2,7 @@
  - Phoenix Brewery
  - Weiner King
  - Leaning Tower
+ - Gioninos
 
 ### Things to do
  - Mohican
