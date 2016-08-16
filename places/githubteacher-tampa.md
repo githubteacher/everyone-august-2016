@@ -6,7 +6,7 @@
  - Casa Tinas - go for tacos
 
 ### Brewery Tour
- - Seventh Sun
+ - Se7nth Sun
  - De Bine
  - Rock Brothers Brewery
 
