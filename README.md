@@ -1,14 +1,14 @@
 # GitHub for Everyone
 
-Welcome to the GitHub for Everyone class. 
+Welcome to the GitHub for Everyone class.
 
 ### Facilitators
 
 Your trainers for today will be:
 
-- On the :microphone: 
+- On the :microphone:
  - Matt Desmond (:octocat: @beardofedu)
-- On Gitter: 
+- On Gitter:
  - Briana Swift (:octocat: @brianamarie)
 
 ### Before we Begin
@@ -26,3 +26,4 @@ Your trainers for today will be:
 
 - [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
 - [Help with Markdown](https://guides.github.com/features/mastering-markdown/)
+ 
