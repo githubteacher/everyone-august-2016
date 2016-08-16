@@ -10,3 +10,5 @@
  - [ ] choose footage
  - [ ] create wireframe
  - [ ] go to the store
+
+Fun stuff
