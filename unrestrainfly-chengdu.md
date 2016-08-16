@@ -6,7 +6,7 @@
 ### Department contact
  - Chris Z
  - Shadow H
- - Harman
+ - Harmann swiss
 
 ### Room owner
  - Facility
