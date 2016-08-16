@@ -9,7 +9,6 @@
  - Se7nth Sun
  - De Bine
  - Rock Brothers Brewery
- - Big Storm Brewery
 
 ### Things to Do
  - Sponge Docks in Tarpon
