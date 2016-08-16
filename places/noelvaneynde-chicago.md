@@ -9,4 +9,4 @@
  - [ ] Finish this demo
  - [ ] choose footage
  - [ ] create wireframe
- 
+ - [ ] go to the store
