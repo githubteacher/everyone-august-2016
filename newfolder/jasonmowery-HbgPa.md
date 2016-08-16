@@ -1,4 +1,4 @@
-## PLaces to eat
+## Places to eat
 - Dockside Willies
 - Rock Bass Grill
 - Appalachian Brewing Company :beer:
