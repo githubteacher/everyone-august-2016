@@ -10,3 +10,4 @@
  - [ ] choose footage
  - [ ] create wireframe
  - [ ] go to the store
+ - [ ] eat a pizza
