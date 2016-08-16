@@ -8,6 +8,7 @@
 - Visit BrickTown
 - Visit Downtown
 - Visit Basspro Shop
+- Visit
 
 
 ### Colleges
