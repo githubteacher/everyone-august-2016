@@ -9,6 +9,7 @@
  - Se7nth Sun
  - De Bine
  - Rock Brothers Brewery
+ - Cigar City Brewery 
 
 ### Things to Do
  - Sponge Docks in Tarpon
