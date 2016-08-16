@@ -1,5 +1,5 @@
 
-### Places to Eat
+### Best Places to Eat
  - Dunedin Brewery
  - Demitri's on the Water
  - Food Truck Rally
