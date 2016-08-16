@@ -5,3 +5,4 @@
 ### Things to do
  - Detroit Zoo
  - Greek Town
+ - Renaissance Center
