@@ -11,6 +11,7 @@
  - Rock Brothers Brewery
  - Brew Dog
  - Hoppy Friday Brewery
+ - Big Storm Brewery
 
 ### Things to Do
  - Sponge Docks in Tarpon
