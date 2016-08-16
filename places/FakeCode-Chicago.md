@@ -5,4 +5,5 @@
 
 ### Things to Do
 - Create project repo 
+- Merge it all and
 - Deploy on it
