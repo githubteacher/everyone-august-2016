@@ -5,5 +5,6 @@
 
 ### Add changes
 
-- [ ] Modify file
+- [X] Modify file
+- [X] Change locally committed file  
 - [ ] Push on server
