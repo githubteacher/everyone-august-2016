@@ -18,3 +18,4 @@
  - Sponge Docks in Tarpon
  - Go to Clearwater Beach
  - Jolly Trolley
+ - Hippie Festival
