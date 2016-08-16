@@ -1,2 +1,4 @@
 ### Things to Do
-- Recall what can I do or eat in Khabarovsk 
+- Recall where to eat in Khabarovsk
+- visit China (it's nearby)
+- learn russian
