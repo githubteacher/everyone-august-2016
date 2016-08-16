@@ -8,5 +8,8 @@
 ### Things to do
  - [ ] Finish this demo
  - [ ] choose footage
- 
- 
+ - [ ] create wireframe
+ - [ ] go to the store
+ - [ ] eat a pizza
+
+### Fun stuff

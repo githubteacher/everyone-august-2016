@@ -4,7 +4,12 @@
   - Roots and Veggies
   - Rocking Burgers and Fries
 
-### Things to Do
+### Scary Tour
+	- Spooky Walking Tour
+	- Scary Corn Maze
+	- Scary Car Ride
+  
+  ### Things to Do
   - Skydive
   - Walk in the park
   - See a play
