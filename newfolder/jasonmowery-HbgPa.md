@@ -1,7 +1,7 @@
 ## PLaces to eat
 - Dockside Willies
 - Rock Bass Grill
-- Appalachian Brewing Company 
+- Appalachian Brewing Company :beer
 
 ## Things to do
 - Visit State capital
