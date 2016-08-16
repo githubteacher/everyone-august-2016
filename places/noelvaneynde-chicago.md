@@ -3,6 +3,7 @@
  - Chicago diner
  - Launch control
  - Taste of Lebanon
+ - Taco Burrito Palace #3
 
 ### Things to do
  - [ ] Finish this demo
