@@ -5,3 +5,4 @@
 ### Things to do
  - Detroit Zoo
  - Greek Town
+ - Belle Isle Park
