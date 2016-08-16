@@ -10,6 +10,7 @@ Your trainers for today will be:
  - Matt Desmond (:octocat: @beardofedu)
 - On Gitter:
  - Briana Swift (:octocat: @brianamarie)
+ - Cynthia Rich (:octocat: @crichID)
 
 ### Before we Begin
 
