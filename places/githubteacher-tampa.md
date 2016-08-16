@@ -9,10 +9,13 @@
  - Se7nth Sun
  - De Bine
  - Rock Brothers Brewery
+<<<<<<< HEAD
+=======
  - Brew Dog
  - Hoppy Friday Brewery
  - Cigar City Brewery
  - Big Storm Brewery
+>>>>>>> master
 
 ### Things to Do
  - Sponge Docks in Tarpon

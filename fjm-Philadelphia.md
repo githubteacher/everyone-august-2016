@@ -7,7 +7,6 @@
 - Philadelphia Phillies (could be doing better this season)
 - Philadelphia Eagles
 - Philadelphia Flyers (for hockey fans)
-- Philadelphia 76ers
 
 ### Things to Do
 - Olde City
