@@ -7,8 +7,8 @@
 ### Scary Tour
 	- Spooky Walking Tour
 	- Scary Corn Maze
+	- Scary Car Ride
   
-
   ### Things to Do
   - Skydive
   - Walk in the park
