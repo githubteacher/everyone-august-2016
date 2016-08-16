@@ -9,6 +9,8 @@
  - Se7nth Sun
  - De Bine
  - Rock Brothers Brewery
+ - Brew Dog
+ - Hoppy Friday Brewery
  - Cigar City Brewery
  - Big Storm Brewery
 
