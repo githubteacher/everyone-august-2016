@@ -10,3 +10,9 @@
  - [ ] choose footage
  - [ ] create wireframe
  - [ ] go to the store
+<<<<<<< HEAD
+=======
+ - [ ] eat a pizza
+
+### Fun stuff
+>>>>>>> master
