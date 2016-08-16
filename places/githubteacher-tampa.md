@@ -7,4 +7,6 @@
 ### Things to Do
  - Sponge Docks in Tarpon
  - Go to Clearwater Beach
- - Jolly Trolley 
+ - Jolly Trolley
+
+### Places to Visit
